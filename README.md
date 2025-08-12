@@ -1,1 +1,1 @@
-Strivers Leetcode solution using java
+Strivers Leetcode solutions using java
