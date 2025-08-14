@@ -6,7 +6,7 @@ The goal: **Stay consistent, improve problem-solving skills, and prepare for cod
 ---
 
 ## 📅 Commit Streak Goal
-I am solving **at least 2 problem every day** and pushing solutions to GitHub to:
+I am solving **at least 1 problem every day** and pushing solutions to GitHub to:
 - Build a strong coding habit
 - Track my progress visually
 - Stay accountable
